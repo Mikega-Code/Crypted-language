@@ -1,6 +1,6 @@
 # Crypted-language
 
-Ce code permet de crypter et de decrypter un code qui s'inspire du morse
+Ce code permet de crypter et de decrypter dans un language codé qui s'inspire du morse
 
 Les regles de ce language sont :
 
